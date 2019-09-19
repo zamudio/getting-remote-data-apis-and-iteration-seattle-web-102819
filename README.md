@@ -5,7 +5,7 @@
 1. Use Ruby to programmatically make a web request to the [Star Wars API](https://swapi.co/).
 2. Use iteration and other techniques to parse a nested hash for specific information.
 
-![](http://readme-pics.s3.amazonaws.com/star-wars.jpg)
+![](https://curriculum-content.s3.amazonaws.com/module-1/getting-remote-data-apis-and-iteration/Image_136_StarWarsLego.jpg)
 
 ## Overview
 
